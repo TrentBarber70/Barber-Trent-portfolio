@@ -1,1 +1,0 @@
-![Trent Barber](TrentBarberFootball.jpg)
