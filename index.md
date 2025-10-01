@@ -1,1 +1,4 @@
 ![Trent Barber](TrentBarberFootball.jpg)
+9/16/25
+I started to create a code that would turn on a light and print "67" whenever the button was pressed.
+!(Screenshot 2025-09-16 094656.png)
