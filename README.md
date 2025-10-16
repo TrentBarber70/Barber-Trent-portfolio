@@ -1,2 +1,3 @@
 # Barber-Trent-portfolio
 Honors Engineering Portfolio – [2025-2026]
+This is  my Github page where I will update it weekly to share my progress in making a diy pinball machine usign things in the fab lab. I want to make a pinball machine because last year I went to an arcade with my friends and played with the 1999 NBA slam dunk pinball machine and I was so fascinated by all the moving parts and wanted to create something like it and keep it in my room. My project this year is a half sized pinball machine with 4 ways to earn points and 1 quick time event that will play a cutscene on a screen ran by a raspberry pi that will also start multiball.
