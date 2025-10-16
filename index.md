@@ -10,3 +10,6 @@ I started to create a code that would turn on a light and print "67" whenever th
 ![9/16/25](67button91625wdelay10.png)
 
 This is a test to see how the text is formated.
+
+[10/8/25]
+today I created a solenoid from a 3d printed spool and 36 gauge wire and a steel bolt however I can not tell if the solenoid is working. I only used a 9 volt battery and I can't tell if the electromagnet is working but the coils are heating up.
